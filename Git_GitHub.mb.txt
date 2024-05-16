@@ -1,0 +1,35 @@
+Git E Github
+
+Termos
+        Directory -> Pasta
+        Terminal or Command Line -> Interface para Comandos de Texto
+        CLI -> Interface de Linha de Comando
+        cd -> Mudar de Diretório
+        Code Editor -> Processador de Texto para Escrever Código
+        Repository -> Projeto, ou a pasta/local onde seu projeto é mantido
+        Github -> Site para hospedar seus repositórios online
+        
+Comandos Git       
+        Clone -> Traga um repositório que está hospedado em algum lugar como o Github para uma pasta em sua máquina local.
+        add -> Acompanhe seus arquivos e alterações no Git.
+        commit -> Salve seus arquivos no Git.
+        push -> Envie commits do Git para um repositório remoto, como o Github.
+        pull -> Baixe alterações do repositório remoto para sua máquina local, o oposto de push.
+
+SSH Keys
+        Gerar uma chave SSH e adicionar no Github       
+        
+Github Workflow
+        Escrever o codigo  ->  Salvar alterações  ->   solicitar que as alterações feitas em um repositório sejam mescladas
+
+Local Git Workflow
+        Escrever o codigo  -> adicionar as alterações  ->  Salvar alterações  ->  enviar as alterações  -> Mesclar as alterações
+
+Git Branching
+        Ramificação do código-fonte que permite que ocorra correções de bugs ou experimentos sem afetar o código principal do projeto.
+        Cria uma cópia do estado atual do seu código;
+        Depois que um novo recurso é desenvolvido e testado em um branch separado, ele pode ser integrado de volta ao branch principal por meio de um processo chamado de "merge".
+
+Forking in Git
+        Cópia independente de um repositório Git existente;
+        Projetos de código aberto, onde permite que os colaboradores contribuam com o código sem a necessidade de permissões especiais para modificar o repositório original;
